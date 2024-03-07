@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "@type": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "author[0].@type": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "author[0].familyName": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "author[0].givenName": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "author[1].@type": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "author[1].name": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "license": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "name": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  },
+  "version": {
+    "plugin": "cff",
+    "local_path": "CITATION.cff",
+    "timestamp": "2024-03-07T09:32:29.799172",
+    "harvester": "cff"
+  }
+}
