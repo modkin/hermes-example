@@ -1,0 +1,112 @@
+{
+  "@context": [
+    [
+      "https://doi.org/10.5063/schema/codemeta-2.0",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "@type": [
+    [
+      "SoftwareSourceCode",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "author[0].@type": [
+    [
+      "Person",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "author[0].familyName": [
+    [
+      "T",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "author[0].givenName": [
+    [
+      "Dominik",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "author[1].@type": [
+    [
+      "Person",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "author[1].name": [
+    [
+      "Informatik 10",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "license": [
+    [
+      "https://spdx.org/licenses/GPL-3.0",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "name": [
+    [
+      "hermes-example",
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ],
+  "version": [
+    [
+      1.0,
+      {
+        "plugin": "cff",
+        "local_path": "CITATION.cff",
+        "timestamp": "2024-03-07T09:22:54.502885",
+        "harvester": "cff"
+      }
+    ]
+  ]
+}
