@@ -16,7 +16,7 @@ on:
   # See the events you can react to at https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
   push:
     branches:
-      - main
+      - master
   # NOTE: Do not delete the trigger on closed pull requests, the HERMES workflow needs this.
   pull_request:
     types:
@@ -106,7 +106,7 @@ jobs:
       # 2. Adapt the files you want to deposit. In the example, showcase.zip and README.md are deposited alongside the metadata.
       # 3. Check if you want to run with '--initial', as this may potentially create a completely new record (collection),
       #    rather than a new version of the same collection!
-      - run: hermes deposit --initial -O invenio_rdm.auth_token ${{ secrets.ZENODO_HERMES_TOKEN }} --file showcase.zip --file README.md
+      - run: hermes deposit --initial -O invenio_rdm.auth_token ${{ secrets.ZENODO_HERMES_TOKEN }} --file showcase.zip
 
       # ADAPT
       # Remove this command if you don't want to do any postprocessing
